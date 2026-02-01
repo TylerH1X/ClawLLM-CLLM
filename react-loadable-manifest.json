@@ -1,0 +1,42 @@
+{
+  "..\\node_modules\\@react-three\\drei\\core\\VideoTexture.js -> hls.js": {
+    "id": null,
+    "files": []
+  },
+  "..\\node_modules\\@react-three\\drei\\web\\FaceLandmarker.js -> @mediapipe/tasks-vision": {
+    "id": null,
+    "files": []
+  },
+  "app\\about\\page.tsx -> @/components/LobsterCanvas": {
+    "id": 5702,
+    "files": [
+      "static/chunks/b536a0f1.69e6f0c640780c54.js",
+      "static/chunks/168.03ac0c40f7159554.js",
+      "static/chunks/702.b3d9b4c56c4a5e66.js"
+    ]
+  },
+  "app\\builder\\page.tsx -> @/components/LobsterCanvas": {
+    "id": 5702,
+    "files": [
+      "static/chunks/b536a0f1.69e6f0c640780c54.js",
+      "static/chunks/168.03ac0c40f7159554.js",
+      "static/chunks/702.b3d9b4c56c4a5e66.js"
+    ]
+  },
+  "app\\page.tsx -> @/components/LobsterCanvas": {
+    "id": 5702,
+    "files": [
+      "static/chunks/b536a0f1.69e6f0c640780c54.js",
+      "static/chunks/168.03ac0c40f7159554.js",
+      "static/chunks/702.b3d9b4c56c4a5e66.js"
+    ]
+  },
+  "app\\scanner\\page.tsx -> @/components/LobsterCanvas": {
+    "id": 5702,
+    "files": [
+      "static/chunks/b536a0f1.69e6f0c640780c54.js",
+      "static/chunks/168.03ac0c40f7159554.js",
+      "static/chunks/702.b3d9b4c56c4a5e66.js"
+    ]
+  }
+}
